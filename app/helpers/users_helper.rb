@@ -9,6 +9,5 @@ module UsersHelper
             "<i class='fa fa-dollar'></i>".html_safe
         end
         
-            
     end
 end
